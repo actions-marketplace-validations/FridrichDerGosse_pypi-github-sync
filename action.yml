@@ -1,6 +1,6 @@
-name: pypi-github-sync
-description: "Sync a PyPI package with Github release"
-author: Pablo Lecolinet
+name: pypi-github-sync-311
+description: "Sync a PyPI package with Github release for python 3.11"
+author: Lukas Krahbichler
 branding:
   color: green
   icon: send
